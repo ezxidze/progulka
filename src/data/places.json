@@ -3,9 +3,9 @@
     "id": 1,
     "name": "Набережная Оби",
     "images": [
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Novosibirsk_ObEmbankment_012_6840.jpg/960px-Novosibirsk_ObEmbankment_012_6840.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ob_River%2C_Novosibirsk_1.jpg/960px-Ob_River%2C_Novosibirsk_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ob_River%2C_Novosibirsk_2.jpg/960px-Ob_River%2C_Novosibirsk_2.jpg"
     ],
     "address": "Набережная ул., Центральный район",
     "metro_time": "10 мин от ст. Речной вокзал",
@@ -17,9 +17,9 @@
     "id": 2,
     "name": "Центральный парк",
     "images": [
-      "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1585938389612-a552a28c9bc9?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Novosibirsk_central_park_01.jpg/960px-Novosibirsk_central_park_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Novosibirsk_central_park_02.jpg/960px-Novosibirsk_central_park_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Novosibirsk_central_park_03.jpg/960px-Novosibirsk_central_park_03.jpg"
     ],
     "address": "ул. Мичурина, 8",
     "metro_time": "15 мин от ст. Площадь Ленина",
@@ -31,9 +31,9 @@
     "id": 3,
     "name": "Заельцовский бор",
     "images": [
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Zayeltsovsky_Park%2C_Novosibirsk_01.jpg/960px-Zayeltsovsky_Park%2C_Novosibirsk_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Zayeltsovsky_Park%2C_Novosibirsk_02.jpg/960px-Zayeltsovsky_Park%2C_Novosibirsk_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zayeltsovsky_Park%2C_Novosibirsk_03.jpg/960px-Zayeltsovsky_Park%2C_Novosibirsk_03.jpg"
     ],
     "address": "Заельцовский район, ул. Дачная",
     "metro_time": "20 мин от ст. Заельцовская",
@@ -45,9 +45,9 @@
     "id": 4,
     "name": "Академгородок",
     "images": [
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1426604966848-d7adac402bff?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akademgorodok%2C_Novosibirsk_01.jpg/960px-Akademgorodok%2C_Novosibirsk_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Akademgorodok_%28Novosibirsk%29_01.jpg/960px-Akademgorodok_%28Novosibirsk%29_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Novosibirsk_Akademgorodok_01.jpg/960px-Novosibirsk_Akademgorodok_01.jpg"
     ],
     "address": "Советский район, Академгородок",
     "metro_time": "40 мин от центра на автобусе",
@@ -59,9 +59,9 @@
     "id": 5,
     "name": "Михайловская набережная",
     "images": [
-      "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1465188162913-8fb5709d6d57?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mikhailovskaya_Embankment%2C_Novosibirsk_01.jpg/960px-Mikhailovskaya_Embankment%2C_Novosibirsk_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mikhailovskaya_Embankment%2C_Novosibirsk_02.jpg/960px-Mikhailovskaya_Embankment%2C_Novosibirsk_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mikhailovskaya_Embankment%2C_Novosibirsk_03.jpg/960px-Mikhailovskaya_Embankment%2C_Novosibirsk_03.jpg"
     ],
     "address": "Михайловская наб., Ленинский район",
     "metro_time": "12 мин от ст. Октябрьская",
@@ -73,9 +73,9 @@
     "id": 6,
     "name": "Нарымский сквер",
     "images": [
-      "https://images.unsplash.com/photo-1510270929386-72b63ce1f290?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1504567961542-e24d9439a724?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1476231682828-37e571bc172f?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B2%D0%B5%D1%80_Narymsky_square_1.jpg/960px-%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B2%D0%B5%D1%80_Narymsky_square_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B2%D0%B5%D1%80_Narymsky_square_2.jpg/960px-%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B2%D0%B5%D1%80_Narymsky_square_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B2%D0%B5%D1%80_Narymsky_square_3.jpg/960px-%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B2%D0%B5%D1%80_Narymsky_square_3.jpg"
     ],
     "address": "ул. Челюскинцев / ул. Нарымская",
     "metro_time": "5 мин от ст. Сибирская",
@@ -87,9 +87,9 @@
     "id": 7,
     "name": "Монумент Славы",
     "images": [
-      "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1495556650867-99590cea3657?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Monument_of_Glory_06.jpg/960px-Monument_of_Glory_06.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Monument_of_Glory_08.jpg/960px-Monument_of_Glory_08.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Monument_of_Glory_09.jpg/960px-Monument_of_Glory_09.jpg"
     ],
     "address": "ул. Станиславского, Ленинский район",
     "metro_time": "7 мин от ст. Площадь Маркса",
@@ -101,9 +101,9 @@
     "id": 8,
     "name": "Ботанический сад",
     "images": [
-      "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1490750967868-88aa4f44baee?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Central_Siberian_Botanical_Garden.jpg/960px-Central_Siberian_Botanical_Garden.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Alpine_garden_of_the_Central_Siberian_Botanical_Garden.JPG/960px-Alpine_garden_of_the_Central_Siberian_Botanical_Garden.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Administration_building_of_the_Central_Siberian_Botanical_Garden.jpg/960px-Administration_building_of_the_Central_Siberian_Botanical_Garden.jpg"
     ],
     "address": "ул. Золотодолинская, 101, Академгородок",
     "metro_time": "45 мин от центра на автобусе",
@@ -115,9 +115,9 @@
     "id": 9,
     "name": "Первомайский сквер",
     "images": [
-      "https://images.unsplash.com/photo-1505245208761-ba872912fac0?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1528184039930-bd03571a30fe?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1496256654245-8f3d0ef3bebe?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pervomaysky_Square%2C_Novosibirsk_01.jpg/960px-Pervomaysky_Square%2C_Novosibirsk_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Pervomaysky_Square%2C_Novosibirsk_02.jpg/960px-Pervomaysky_Square%2C_Novosibirsk_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pervomaysky_Square%2C_Novosibirsk_03.jpg/960px-Pervomaysky_Square%2C_Novosibirsk_03.jpg"
     ],
     "address": "Красный проспект / ул. Ленина",
     "metro_time": "3 мин от ст. Площадь Ленина",
@@ -129,9 +129,9 @@
     "id": 10,
     "name": "Обское море (Бердский залив)",
     "images": [
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&fit=crop",
-      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=800&fit=crop"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Novosibirsk_reservoir_1.jpg/960px-Novosibirsk_reservoir_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Novosibirsk_reservoir_2.jpg/960px-Novosibirsk_reservoir_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ob%27sea.JPG/960px-Ob%27sea.JPG"
     ],
     "address": "Бердский залив, Советский район",
     "metro_time": "50 мин от центра на транспорте",
