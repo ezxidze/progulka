@@ -1,16 +1,15 @@
-import { useParams, useNavigate, Link } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom'
 import places from '../data/places.json'
 import PlaceCard from '../components/PlaceCard'
 
 export default function Place() {
   const { id } = useParams()
-  const navigate = useNavigate()
   const place = places.find((p) => p.id === Number(id))
 
   if (!place) {
     return (
       <div className="place-page">
-        <button className="back-btn" onClick={() => navigate('/')}>&#8592; На главную</button>
+        <Link to="/" className="back-btn">&#8592; На главную</Link>
         <h1>Место не найдено</h1>
       </div>
     )
@@ -20,9 +19,12 @@ export default function Place() {
     .filter((p) => p.id !== place.id && (p.category === place.category || p.district === place.district))
     .slice(0, 3)
 
+  const [lat, lon] = place.coords
+  const mapSrc = `https://yandex.ru/map-widget/v1/?ll=${lon}%2C${lat}&z=15&pt=${lon}%2C${lat}%2Cpm2rdm`
+
   return (
     <div className="place-page">
-      <button className="back-btn" onClick={() => navigate(-1)}>&#8592; Назад</button>
+      <Link to="/" className="back-btn">&#8592; К списку мест</Link>
 
       <div className="place-gallery">
         {place.images.map((img, i) => (
@@ -43,6 +45,20 @@ export default function Place() {
       </div>
 
       <p className="place-description">{place.description}</p>
+
+      <div className="place-map-section">
+        <h2>На карте</h2>
+        <div className="place-map">
+          <iframe
+            src={mapSrc}
+            width="100%"
+            height="400"
+            frameBorder="0"
+            allowFullScreen
+            title={`Карта: ${place.name}`}
+          />
+        </div>
+      </div>
 
       {similar.length > 0 && (
         <div className="similar-section">

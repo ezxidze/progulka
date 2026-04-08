@@ -52,6 +52,7 @@ a {
   height: 200%;
   background: radial-gradient(circle at 30% 50%, rgba(77, 166, 255, 0.1) 0%, transparent 50%);
   animation: heroFloat 20s ease-in-out infinite;
+  pointer-events: none;
 }
 
 @keyframes heroFloat {
@@ -318,6 +319,28 @@ a {
   line-height: 1.8;
   color: var(--text);
   margin-bottom: 48px;
+}
+
+/* Map */
+.place-map-section {
+  margin-bottom: 48px;
+}
+
+.place-map-section h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.place-map {
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.place-map iframe {
+  display: block;
+  border: none;
 }
 
 /* Similar */
